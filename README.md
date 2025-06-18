@@ -1,17 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/xRoAJrqK)
-## Requirements for Assignment #1
-[Read the instruction](https://github.com/STIWK3014-A241/class-activity-stiwk3014-class-activity-team/blob/main/Assignment-1.md)
-
-## Assessment Criteria
-[Check the rubrics](https://github.com/STIWK3014-A241/class-activity-stiwk3014-class-activity-team/blob/main/Rubrics-Assignment-1.md)
-
-## Your Info:
-1. Matric Number:296015 & Name:Nilam Muhammad Azrilluqman Bin Jaafar
- Photo
-![gambar](https://github.com/user-attachments/assets/6303d2c1-edbf-4fe6-a858-be2d0f2c7d41)
-
-Phone Number: 019-7273725
-5. Other related info (if any)
 
 ## Link for the API
 https://api.open-meteo.com/v1/forecast?latitude=%f&longitude=%f&hourly=temperature_2m,relative_humidity_2m,weather_code
