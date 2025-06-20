@@ -30,7 +30,7 @@ public class WeatherBot extends TelegramLongPollingBot {
      */
     @Override
     public String getBotUsername() {
-        return "s296015_bot";
+        return "your telegram bot username";
     }
 
     /**
@@ -40,7 +40,7 @@ public class WeatherBot extends TelegramLongPollingBot {
      */
     @Override
     public String getBotToken() {
-        return "7586651174:AAEbIARC8DuQO3ymOxOeKz540g8_FnEDnvo";
+        return "your telegram bot token";
     }
 
     /**
